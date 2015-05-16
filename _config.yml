@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://AsadoFF.github.io
+title: Asadov's Page
+email: orxan89@gmail.com
+author: Orkhan
+description: My awesome site
+paginate: 5
+google_analytics: 
